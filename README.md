@@ -47,7 +47,7 @@ $ python2
 
 ## Tutorial Facebook 
 * [Cara Mendapatkan Token Facebook](https://www.agunghostkey.com/2018/09/cara-mudah-dapatkan-acces-token-lewat.html)
-* Cara Mendapatkan Cookie Facebook](https://pandasid.blogspot.com/2020/05/cara-mendapatkan-cookie-facebook-dengan.html)
+* [Cara Mendapatkan Cookie Facebook](https://pandasid.blogspot.com/2020/05/cara-mendapatkan-cookie-facebook-dengan.html)
 * [Cara Agar Login Facebook Tidak Kena Sesi](https://www.blogotech.net/2020/05/cara-mencegah-mengatasi-akun-fb-checkpoint.html)
 
 ## Sosial Media

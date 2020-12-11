@@ -1,7 +1,7 @@
 <h2 align="center">🛡CRACKS PRO🛡</h2>
 Script Ini Adalah Script Yang Bisa Mendapatkan Akun Facebook Secara Gratis Tanpa Berbayar Mulai Dari Akun Locked, Akun Old, Akun Bergame, Akun Follower, Dan Masih Banyak Lagi Akun Lainnya. 
 
-# Fitur Script 
+## Fitur Script 
 - Login Via Token
 - Crack ID Dari Teman/Publik
 - Crack ID Dari Postingan Grup/Teman
@@ -10,7 +10,7 @@ Script Ini Adalah Script Yang Bisa Mendapatkan Akun Facebook Secara Gratis Tanpa
 
 <hr/>
 
-# Macam Macam Crack
+## Macam Macam Crack
 - Crack Indonesia 
 - Crack Bangladesh 
 - Crack Usa 
@@ -18,7 +18,7 @@ Script Ini Adalah Script Yang Bisa Mendapatkan Akun Facebook Secara Gratis Tanpa
 
 <hr/>
 
-# Alat Dan Lainnya 
+## Alat Dan Lainnya 
 - FIND ID Facebook (Cari ID FB) 
 - Perbarui Script
 - Ambil Token Dari Aplikasi 

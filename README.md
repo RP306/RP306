@@ -46,8 +46,6 @@ $ python2
 ```
 
 ## Sosial Media
+Jika Ada Kendala Masalah Mengenai Script Silahkan Hubungi Kontak Saya Yang Tertera Dibawah Terima Kasih
 
-[![](https://img.shields.io/badge/Instagram-FOLLOW-white?logo=Instagram&logoColor=white&labelColor=red)](https://www.instagram.com/dimasmpp_)
-[![](https://img.shields.io/badge/Youtube-SUBSCRIBE-red?logo=Youtube&logoColor=red&labelColor=white)](https://www.youtube.com/c/DIMASMPP)
-[![](https://img.shields.io/badge/Twitter-FOLLOW-white?logo=Twitter&logoColor=white&labelColor=red)](https://mobile.twitter.com/dimas_mpp)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/message/5FPWZX7IUSJXF1)

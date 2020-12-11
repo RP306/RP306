@@ -1,5 +1,5 @@
 <h2 align="center">🛡CRACKS PRO🛡</h2>
-Script CRACKS PRO Adalah Script Yang Bisa Mendapatkan Akun Facebook Mulai Dari Akun Locked, Akun Old, Akun Bergame, Akun Follower, Dan Masih Banyak Lagi Akun Facebook Lainnya. 
+<p style="text-align:right">Script CRACKS PRO Adalah Script Yang Bisa Mendapatkan Akun Facebook Mulai Dari Akun Locked, Akun Old, Akun Bergame, Akun Follower, Dan Masih Banyak Lagi Akun Facebook Lainnya.</p>
 
 ## Fitur Login
 - Login Via Token

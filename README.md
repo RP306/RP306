@@ -29,7 +29,7 @@ Script CRACKS PRO Adalah Script Yang Bisa Mendapatkan Akun Facebook Mulai Dari A
 - Ambil Token Dari Link
 
 ## Cara Pemasangan Script
-```yaml
+```yml
 $ pkg update && pkg upgrade
 $ pkg install git
 $ pkg install nodejs
@@ -39,8 +39,15 @@ $ pip2 install mechanize
 ```
 
 ## Cara Menjalankan Script
-```markdown
+```
 $ git clone 
 $ cd 
 $ python2 
 ```
+
+## Sosial Media
+
+[![](https://img.shields.io/badge/Instagram-FOLLOW ME-white?logo=Instagram&logoColor=white&labelColor=red)](https://www.instagram.com/dimasmpp_)
+[![](https://img.shields.io/badge/Youtube-SUBSCRIBE-red?logo=Youtube&logoColor=red&labelColor=white)](https://www.youtube.com/c/DIMASMPP)
+[![](https://img.shields.io/badge/Twitter-FOLLOW ME-white?logo=Twitter&logoColor=white&labelColor=red)](https://mobile.twitter.com/dimas_mpp)
+[![](https://img.shields.io/badge/Whatsapp-CHAT ONLY-red?logo=Whatsapp&logoColor=red&labelColor=white)](https://mobile.twitter.com/dimas_mpp)

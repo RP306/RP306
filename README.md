@@ -8,15 +8,11 @@ Script Ini Adalah Script Yang Bisa Mendapatkan Akun Facebook Secara Gratis Tanpa
 - Crack ID Dari Total Followers
 - Cari ID Menggunakan Username
 
-<hr/>
-
 ## Macam Macam Crack
 - Crack Indonesia 
 - Crack Bangladesh 
 - Crack Usa 
 - Crack Pakistan 
-
-<hr/>
 
 ## Alat Dan Lainnya 
 - FIND ID Facebook (Cari ID FB) 

@@ -46,6 +46,6 @@ $ python2
 ```
 
 ## Sosial Media
-Jika Ada Kendala Masalah Mengenai Script Silahkan Hubungi Kontak Saya Yang Tertera Dibawah Terima Kasih
+Jika Ada Kendala Masalah Mengenai Script Silahkan Hubungi Kontak Saya Yang Tertera Dibawah Terima Kasih.
 
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=red&labelColor=white)](https://wa.me/message/5FPWZX7IUSJXF1)
